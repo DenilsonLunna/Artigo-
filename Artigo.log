@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  31 OCT 2018 10:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  31 OCT 2018 10:32
 entering extended mode
 **./Artigo.tex
 (Artigo.tex
@@ -195,18 +195,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 [2]
-Overfull \hbox (95.38788pt too wide) in paragraph at lines 79--82
-\OT1/cmr/m/n/12 Links: http://www.br-ie.org/pub/index.php/sbie/article/view/300
-0/2511 https://galoa.com.br/blog/pesquisa-
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
  []
 
 
-Overfull \hbox (36.99959pt too wide) in paragraph at lines 79--82
-\OT1/cmr/m/n/12 basica-e-pesquisa-aplicada-o-que-sao-e-suas-importancias http:/
-/www2.seduc.mt.gov.br/-/evolucao-
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
  []
 
-[3] (Artigo.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Overfull \hbox (172.14958pt too wide) in paragraph at lines 90--93
+\OT1/cmr/m/n/12 Links: (Ar-tigo so-bre uso de jo-gos no en-sino de pro-gramac~
+ao)http://www.br-ie.org/pub/index.php/sbie/article/view/3000/2511
+ []
+
+
+Overfull \hbox (3.28189pt too wide) in paragraph at lines 90--93
+\OT1/cmr/m/n/12 (Pesquisa aplicada)https://galoa.com.br/blog/pesquisa-basica-e-
+pesquisa-aplicada-o-que-sao-
+ []
+
+
+Overfull \hbox (0.14859pt too wide) in paragraph at lines 90--93
+\OT1/cmr/m/n/12 e-suas-importancias (Evoluc~ao do ensino)http://www2.seduc.mt.
+gov.br/-/evolucao-historica-
+ []
+
+[3] [4] (Artigo.aux) ) 
 Here is how much of TeX's memory you used:
  1367 strings out of 492970
  19764 string characters out of 3126593
@@ -215,17 +241,17 @@ Here is how much of TeX's memory you used:
  7978 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,23p,865b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Denil/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Denil/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/D
-enil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
-b><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti12.pfb>
-Output written on Artigo.pdf (3 pages, 94778 bytes).
+<C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Denil/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Denil/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Denil/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmti12.pfb>
+Output written on Artigo.pdf (4 pages, 96876 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

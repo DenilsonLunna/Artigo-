@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  31 OCT 2018 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  5 NOV 2018 11:09
 entering extended mode
 **./Artigo.tex
 (Artigo.tex
@@ -278,4 +278,154 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
+
+[1
+
+{C:/Users/Denil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
+
+ []
+
+[4]
+<"Figuras/Termo de concentimento".jpg, id=21, 608.2725pt x 341.47575pt>
+File: "Figuras/Termo de concentimento".jpg Graphic file (type jpg)
+<use "Figuras/Termo de concentimento".jpg>
+Package pdftex.def Info: "Figuras/Termo de concentimento".jpg  used on input li
+ne 109.
+(pdftex.def)             Requested size: 330.42041pt x 185.49878pt.
+
+
+! LaTeX Error: File `"Figuras/Termo de concentimento p\IeC {\'o}s esclarecido"'
+ not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ...Termo de concentimento pós esclarecido"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Figuras/Pergunta_1.jpg, id=22, 434.22224pt x 211.992pt>
+File: Figuras/Pergunta_1.jpg Graphic file (type jpg)
+<use Figuras/Pergunta_1.jpg>
+Package pdftex.def Info: Figuras/Pergunta_1.jpg  used on input line 123.
+(pdftex.def)             Requested size: 330.42041pt x 161.3129pt.
+<Figuras/Pergunta_2.jpg, id=23, 373.99725pt x 192.72pt>
+File: Figuras/Pergunta_2.jpg Graphic file (type jpg)
+<use Figuras/Pergunta_2.jpg>
+Package pdftex.def Info: Figuras/Pergunta_2.jpg  used on input line 131.
+(pdftex.def)             Requested size: 330.42041pt x 170.27634pt.
+[5 <./Figuras/Termo de concentimento.jpg> <./Figuras/Pergunta_1.jpg>]
+<Figuras/Pergunta_3.jpg, id=27, 421.575pt x 200.54926pt>
+File: Figuras/Pergunta_3.jpg Graphic file (type jpg)
+<use Figuras/Pergunta_3.jpg>
+Package pdftex.def Info: Figuras/Pergunta_3.jpg  used on input line 139.
+(pdftex.def)             Requested size: 330.42041pt x 157.18974pt.
+<Figuras/Pergunta_4.jpg, id=28, 402.90524pt x 187.29974pt>
+File: Figuras/Pergunta_4.jpg Graphic file (type jpg)
+<use Figuras/Pergunta_4.jpg>
+Package pdftex.def Info: Figuras/Pergunta_4.jpg  used on input line 147.
+(pdftex.def)             Requested size: 330.42041pt x 153.61249pt.
+<Figuras/Pergunta_5.jpg, id=29, 390.86024pt x 180.07275pt>
+File: Figuras/Pergunta_5.jpg Graphic file (type jpg)
+<use Figuras/Pergunta_5.jpg>
+Package pdftex.def Info: Figuras/Pergunta_5.jpg  used on input line 155.
+(pdftex.def)             Requested size: 330.42041pt x 152.23276pt.
+ [6 <./Figuras/Pergunta_2.jpg> <./Figuras/Pergunta_3.jpg> <./Figuras/Pergunta_4
+.jpg>]
+Overfull \hbox (172.14958pt too wide) in paragraph at lines 162--165
+\OT1/cmr/m/n/12 Links: (Ar-tigo so-bre uso de jo-gos no en-sino de pro-gramac~
+ao)http://www.br-ie.org/pub/index.php/sbie/article/view/3000/2511
+ []
+
+
+Overfull \hbox (3.28189pt too wide) in paragraph at lines 162--165
+\OT1/cmr/m/n/12 (Pesquisa aplicada)https://galoa.com.br/blog/pesquisa-basica-e-
+pesquisa-aplicada-o-que-sao-
+ []
+
+
+Overfull \hbox (0.14859pt too wide) in paragraph at lines 162--165
+\OT1/cmr/m/n/12 e-suas-importancias (Evoluc~ao do ensino)http://www2.seduc.mt.
+gov.br/-/evolucao-historica-
+ []
+
+[7 <./Figuras/Pergunta_5.jpg>] (Artigo.aux) ) 
+Here is how much of TeX's memory you used:
+ 2646 strings out of 492970
+ 39689 string characters out of 3126593
+ 118882 words of memory out of 3000000
+ 6474 multiletter control sequences out of 15000+200000
+ 10416 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,891b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Denil/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Denil/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/User
+s/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/Users/Denil/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Denil/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Artigo.pdf (7 pages, 376042 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

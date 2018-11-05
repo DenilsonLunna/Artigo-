@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  5 NOV 2018 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  5 NOV 2018 11:39
 entering extended mode
 **./Artigo.tex
 (Artigo.tex
@@ -377,21 +377,15 @@ File: Figuras/Pergunta_5.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figuras/Pergunta_5.jpg  used on input line 155.
 (pdftex.def)             Requested size: 330.42041pt x 152.23276pt.
 
-Overfull \hbox (172.14958pt too wide) in paragraph at lines 162--165
-\OT1/cmr/m/n/12 Links: (Ar-tigo so-bre uso de jo-gos no en-sino de pro-gramac~
-ao)http://www.br-ie.org/pub/index.php/sbie/article/view/3000/2511
+Overfull \hbox (136.34717pt too wide) in paragraph at lines 162--165
+\OT1/cmr/m/n/12 (Artigo so-bre uso de jo-gos no en-sino de pro-gramac~ao)http:
+//www.br-ie.org/pub/index.php/sbie/article/view/3000/2511 
  []
 
 
 Overfull \hbox (3.28189pt too wide) in paragraph at lines 162--165
 \OT1/cmr/m/n/12 (Pesquisa aplicada)https://galoa.com.br/blog/pesquisa-basica-e-
 pesquisa-aplicada-o-que-sao-
- []
-
-
-Overfull \hbox (0.14859pt too wide) in paragraph at lines 162--165
-\OT1/cmr/m/n/12 e-suas-importancias (Evoluc~ao do ensino)http://www2.seduc.mt.
-gov.br/-/evolucao-historica-
  []
 
 [7 <./Figuras/Pergunta_4.jpg> <./Figuras/Pergunta_5.jpg>] (Artigo.aux) ) 
@@ -413,7 +407,7 @@ ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Denil/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/De
 nil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
 >
-Output written on Artigo.pdf (7 pages, 477314 bytes).
+Output written on Artigo.pdf (7 pages, 477311 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
